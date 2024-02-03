@@ -1,3 +1,2 @@
-## Data Science Project Template
-
-You can use this template to structure your Python data science projects. It is based on [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/).
+# Barbell-Exercise-Classification
+In this project, I intend to use data collected from a smart watch during various barbell exercises in the gym and classify these exercises
